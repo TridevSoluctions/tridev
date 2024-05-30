@@ -121,7 +121,7 @@
             .imageHelpSaudeProject{
                 @include imageProject;
                 &:hover {
-                    transform: translateY(-22%);
+                    transform: translateY(-25%);
                     transition: all 2s linear;
                     @media(max-width: 1440px){
                         transform: translateY(-18%);
@@ -193,7 +193,7 @@
             .imageProjectKauePortfolio{
                 @include imageProject;
                 &:hover {
-                    transform: translateY(-17.5%);
+                    transform: translateY(-20%);
                     transition: all 2.5s linear;
                     @media(max-width: 1440px){
                         transform: translateY(-12%);
@@ -243,7 +243,7 @@
                 @include imageProject;
                 &:hover {
     
-                    transform: translateY(-21%);
+                    transform: translateY(-25%);
                     transition: all 2.5s linear;
                     @media(max-width: 1440px){
                         transform: translateY(-16%);
